@@ -7,7 +7,7 @@ package com.Ivan.homework2;
  */
 // 特征：上网流量、每月资费
 // 行为：显示所有套餐信息
-public class InternetPackage implements InternetService{
+public class InternetPackage extends Package implements InternetService{
 
     // 上网流量
     private double internetFlow;
@@ -30,7 +30,7 @@ public class InternetPackage implements InternetService{
 
     public InternetPackage(double internetFlow, double monthCost) {
         this.internetFlow = internetFlow;
-        this.monthCost = monthCost;
+        super.setMonthCost(monthCost);
     }
 
     public double getInternetFlow() {

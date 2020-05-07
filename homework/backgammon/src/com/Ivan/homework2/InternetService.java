@@ -7,6 +7,5 @@ package com.Ivan.homework2;
  */
 public interface InternetService {
 
-    //
     void internetAction(double InternetFlow,Sim s);
 }

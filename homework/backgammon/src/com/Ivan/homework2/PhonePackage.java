@@ -33,7 +33,7 @@ public class PhonePackage extends Package implements PhoneService{
     public PhonePackage(double phoneTime, int msgNum, double monthCost) {
         this.phoneTime = phoneTime;
         this.msgNum = msgNum;
-        this.monthCost = monthCost;
+        super.setMonthCost(monthCost);
     }
 
     public double getPhoneTime() {
