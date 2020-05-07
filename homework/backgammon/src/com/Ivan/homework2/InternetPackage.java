@@ -12,12 +12,12 @@ public class InternetPackage implements InternetService{
     // 上网流量
     private double internetFlow;
 
-    // 每月资费
-    private double monthCost;
 
     // 显示套餐信息
+    @Override
     public void show() {
-        System.out.println("上网流量："+getInternetFlow()+" 每月资费："+getMonthCost());
+        super.show();
+        System.out.println("上网流量："+getInternetFlow());
     }
 
     // 实现上网服务接口方法
@@ -40,12 +40,5 @@ public class InternetPackage implements InternetService{
     public void setInternetFlow(double internetFlow) {
         this.internetFlow = internetFlow;
     }
-
-    public double getMonthCost() {
-        return monthCost;
-    }
-
-    public void setMonthCost(double monthCost) {
-        this.monthCost = monthCost;
-    }
+    
 }

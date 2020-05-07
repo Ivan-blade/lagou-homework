@@ -7,7 +7,7 @@ package com.Ivan.homework2;
  */
 // 特征：通话时长、短信条数、每月资费
 // 行为: 显示所有套餐信息
-public class PhonePackage implements PhoneService{
+public class PhonePackage extends Package implements PhoneService{
 
     // 通话时长
     private double phoneTime;
@@ -15,11 +15,10 @@ public class PhonePackage implements PhoneService{
     // 短信数量
     private int msgNum;
 
-    // 每月花费
-    private double monthCost;
-
+    @Override
     public void show() {
-        System.out.println("通话时长: "+getPhoneTime()+" 短信条数: "+getMsgNum()+" 每月资费: "+getMonthCost());
+        super.show();
+        System.out.println("通话时长: "+getPhoneTime()+" 短信条数: "+getMsgNum());
     }
 
     // 实现通话服务接口
@@ -53,11 +52,4 @@ public class PhonePackage implements PhoneService{
         this.msgNum = msgNum;
     }
 
-    public double getMonthCost() {
-        return monthCost;
-    }
-
-    public void setMonthCost(double monthCost) {
-        this.monthCost = monthCost;
-    }
 }
