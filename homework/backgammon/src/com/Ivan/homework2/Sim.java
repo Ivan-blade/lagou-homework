@@ -2,7 +2,7 @@ package com.Ivan.homework2;
 
 /**
  * @author 夏殿千歌序
- * @date 2020/5/52 0:20
+ * @date 2020/5/5 20:20
  * @description 手机卡类
  */
 // 特征：卡类型、卡号、用户名、密码、账户余额、通话时长(分钟)、上网流量
@@ -10,7 +10,7 @@ package com.Ivan.homework2;
 public class Sim {
 
     // 卡类型
-    private String cardType;
+    private CardType cardType;
 
     // 卡号
     private String cardId;
@@ -32,7 +32,7 @@ public class Sim {
     }
 
     // 有参构造函数
-    public Sim(String cardType, String cardId, String name, String password, double rest, double phoneTime, double internetFlow) {
+    public Sim(CardType cardType, String cardId, String name, String password, double rest, double phoneTime, double internetFlow) {
         this.cardType = cardType;
         this.cardId = cardId;
         this.name = name;
@@ -40,6 +40,14 @@ public class Sim {
         this.rest = rest;
         this.phoneTime = phoneTime;
         this.internetFlow = internetFlow;
+    }
+
+    public CardType getCardType() {
+        return cardType;
+    }
+
+    public void setCardType(CardType cardType) {
+        this.cardType = cardType;
     }
 
     public double getInternetFlow() {
@@ -56,14 +64,7 @@ public class Sim {
         System.out.println("卡号"+getCardId()+" 所属用户："+getName()+" 当前余额为："+getRest());
     }
 
-    public String getCardType() {
-        return cardType;
-    }
 
-    public void setCardType(String cardType) {
-
-        this.cardType = cardType;
-    }
 
     public String getCardId() {
         return cardId;

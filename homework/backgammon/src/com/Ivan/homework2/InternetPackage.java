@@ -2,7 +2,7 @@ package com.Ivan.homework2;
 
 /**
  * @author 夏殿千歌序
- * @date 2020/5/52 0:21
+ * @date 2020/5/5 20:21
  * @description 上网套餐类
  */
 // 特征：上网流量、每月资费

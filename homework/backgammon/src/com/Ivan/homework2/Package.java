@@ -2,7 +2,7 @@ package com.Ivan.homework2;
 
 /**
  * @author 夏殿千歌序
- * @date 2020/5/52 0:43
+ * @date 2020/5/5 20:43
  * @description 抽象套餐类
  */
 public abstract class Package {

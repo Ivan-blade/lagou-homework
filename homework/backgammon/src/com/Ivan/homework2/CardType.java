@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * @author 夏殿千歌序
- * @date 2020/5/52 0:38
+ * @date 2020/5/5 20:38
  * @description 卡类
  */
 public enum CardType {
