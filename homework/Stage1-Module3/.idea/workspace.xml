@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6dccb2a-c3a1-4306-bae7-a6ec66e56fbc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/al/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/al/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/al/soft/BubbleSoft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/al/soft/quickSoft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/al/tree/TestTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/al/tree/TestTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/al/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/al/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/al/vertex/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/al/vertex/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/al/vertex/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/al/vertex/Vertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/softal/bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/softal/bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/softal/heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/softal/heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/softal/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/softal/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/softal/insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/softal/insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/softal/merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/softal/merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/softal/testmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/softal/testmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/后端面试考点/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../leetcode_study/后端面试考点/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/常用算法/二分查找算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/常用算法/回溯算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/常用算法/状态机.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../leetcode_study/常用算法/贪心算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/src/main/java/com/mengxuegu/security/authentication/CustomAuthenticationFailureHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/src/main/java/com/mengxuegu/security/authentication/CustomAuthenticationFailureHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/src/main/java/com/mengxuegu/security/conﬁg/SpringSecurityConﬁg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/src/main/java/com/mengxuegu/security/conﬁg/SpringSecurityConﬁg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/src/main/java/com/mengxuegu/security/properties/AuthenticationProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/src/main/java/com/mengxuegu/security/properties/AuthenticationProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/CustomAuthenticationFailureHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/CustomAuthenticationFailureHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/CustomAuthenticationSuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/CustomAuthenticationSuccessHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/code/ImageCodeValidateFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/code/ImageCodeValidateFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/code/KaptchaImageCodeConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/code/KaptchaImageCodeConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/exception/ValidateCodeExpection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/exception/ValidateCodeExpection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/mobile/SmsCodeSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/mobile/SmsCodeSender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/mobile/SmsSend.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/authentication/mobile/SmsSend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/controller/CustomLoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/controller/CustomLoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/conﬁg/ReloadMessageConﬁg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/conﬁg/ReloadMessageConﬁg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/conﬁg/SeurityConﬁgBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/conﬁg/SeurityConﬁgBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/conﬁg/SpringSecurityConﬁg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/conﬁg/SpringSecurityConﬁg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/properties/AuthenticationProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/properties/AuthenticationProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/properties/LoginResponseType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/properties/LoginResponseType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/properties/SecurityProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-core/target/classes/com/mengxuegu/security/properties/SecurityProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/com/mengxuegu/WebApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/com/mengxuegu/WebApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/com/mengxuegu/security/CustomUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/com/mengxuegu/security/CustomUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/com/mengxuegu/security/MobileSmsCodeSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/com/mengxuegu/security/MobileSmsCodeSender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/com/mengxuegu/security/controller/CustomMobileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/com/mengxuegu/web/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/com/mengxuegu/web/controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/summernote/font/summernote.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/summernote/font/summernote.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/summernote/font/summernote.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/summernote/font/summernote.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/summernote/font/summernote.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springsecurity_study/spring-security/mengxuegu-security-parent/mengxuegu-security-web/target/classes/static/plugins/summernote/font/summernote.woff" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1393321429">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7026" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7026" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ivan/task05/Card.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <folding>
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ivan/task05/Cards.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Ivan/task05/TestMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1484">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/Ivan/task03/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/com/Ivan/task02/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/com/Ivan/task01/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/com/Ivan/task04/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/Ivan/task04/ManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/Ivan/task04/Manager.java" />
+        <option value="$PROJECT_DIR$/src/com/Ivan/task05/Cards.java" />
+        <option value="$PROJECT_DIR$/src/com/Ivan/task05/Card.java" />
+        <option value="$PROJECT_DIR$/src/com/Ivan/task05/TestMain.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\springboot_project\respository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.2-bin/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.2-bin\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Stage1-Module3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stage1-Module3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stage1-Module3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stage1-Module3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stage1-Module3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stage1-Module3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ivan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stage1-Module3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stage1-Module3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ivan" type="462c0819:PsiDirectoryNode" />
+              <item name="task05" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589165424702" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestMain (3)">
+    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ivan.task04.ManagerTest" />
+      <module name="Stage1-Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ivan.task04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ivan.task02.TestMain" />
+      <module name="Stage1-Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ivan.task02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ivan.task03.TestMain" />
+      <module name="Stage1-Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ivan.task03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ivan.task05.TestMain" />
+      <module name="Stage1-Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ivan.task05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ivan.task01.TestMain" />
+      <module name="Stage1-Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ivan.task01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="Application.TestMain (1)" />
+      <item itemvalue="Application.TestMain (2)" />
+      <item itemvalue="Application.ManagerTest" />
+      <item itemvalue="Application.TestMain (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMain (3)" />
+        <item itemvalue="Application.ManagerTest" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.TestMain (2)" />
+        <item itemvalue="Application.TestMain (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6dccb2a-c3a1-4306-bae7-a6ec66e56fbc" name="Default Changelist" comment="" />
+      <created>1589102603155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589102603155</updated>
+      <workItem from="1589102609873" duration="21161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21161000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32871974" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4429066" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2497979" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32871974" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.8304498" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/Ivan/task02/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ivan/task01/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ivan/task03/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ivan/task04/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ivan/task04/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#insert#0;class#Manager#0" />
+            <element signature="method#find#0;class#Manager#0" />
+            <element signature="method#delete#0;class#Manager#0" />
+            <element signature="method#select#0;class#Manager#0" />
+            <element signature="method#update#0;class#Manager#0" />
+            <element signature="method#enter#0;class#Manager#0" />
+            <element signature="method#display#0;class#Manager#0" />
+            <element signature="method#choose#0;class#Manager#0" />
+            <element signature="method#stuShow#0;class#Manager#0" />
+            <element signature="method#isContinue#0;class#Manager#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ivan/task04/ManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="106" column="61" lean-forward="true" selection-start-line="106" selection-start-column="61" selection-end-line="106" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="92" column="38" lean-forward="true" selection-start-line="92" selection-start-column="38" selection-end-line="92" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1160" column="25" lean-forward="true" selection-start-line="1160" selection-start-column="25" selection-end-line="1160" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ivan/task05/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ivan/task05/Cards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ivan/task05/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1484">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
