@@ -13,7 +13,7 @@ public class TestMain {
 
     public static void main(String[] args) {
 
-        // 比视频里增加了循环发牌的功能
+        // 循环发牌
         Scanner sc = new Scanner(System.in);
         System.out.println("input y to distribute cards:");
         String str = sc.next();
