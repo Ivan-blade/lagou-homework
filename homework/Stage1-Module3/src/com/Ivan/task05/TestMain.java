@@ -13,15 +13,23 @@ public class TestMain {
 
     public static void main(String[] args) {
 
-        // 创建牌组
-        Cards cards = new Cards();
+        // 比视频里增加了循环发牌的功能
+        Scanner sc = new Scanner(System.in);
+        System.out.println("input y to distribute cards:");
+        String str = sc.next();
+        while ("y".equals(str)) {
+            // 创建牌组
+            Cards cards = new Cards();
 
-        // 发牌并使用list保存四个set，分别是三个玩家手中的牌和三张底牌牌
-        List<Set<Card>> res = distribute(cards.getList());
+            // 发牌并使用list保存四个set，分别是三个玩家手中的牌和三张底牌牌
+            List<Set<Card>> res = distribute(cards.getList());
 
-        // 打印四个set的值
-        for(int i = 0; i < 4; i++) {
-            System.out.println(res.get(i));
+            // 打印四个set的值
+            for (int i = 0; i < 4; i++) {
+                System.out.println(res.get(i));
+            }
+            System.out.println("input y to distribute cards:");
+            str = sc.next();
         }
     }
 
