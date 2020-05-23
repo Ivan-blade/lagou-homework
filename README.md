@@ -1,10 +1,10 @@
 # lagou-homework
-+ 作业提交操作(参考：https://blog.csdn.net/HcJsJqJSSM/article/details/84558229)
++ 作业提交分支操作(参考：https://blog.csdn.net/HcJsJqJSSM/article/details/84558229)
     + https://github.com/Ivan-blade/lagou-homework.git
-    + git clone xxx
-    + 进入克隆仓库
-    + 添加作业文件
+    + git init
+    + git remote add origin xxx
     + git checkout -b newbranch
+    + 添加作业文件
     + git add .
     + git commit -m "xxx"
     + git push -u origin newbranch
