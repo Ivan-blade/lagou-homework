@@ -1,5 +1,6 @@
 # lagou-homework
 + 作业提交操作(参考：https://blog.csdn.net/HcJsJqJSSM/article/details/84558229)
+    + https://github.com/Ivan-blade/lagou-homework.git
     + git clone xxx
     + 进入克隆仓库
     + 添加作业文件
@@ -8,8 +9,13 @@
     + git commit -m "xxx"
     + git push -u origin newbranch
 + 相关作业请看分支
-    + 目前进度Stage1-Module3
+    + 目前进度Stage1-Module4
 
++ 下载单一分支
+    + git init
+    + git remote add origin http:....
+    + git fetch origin Stage1-Module1
+    + git pull origin Stage1-Module1
 ### 其他
 + 课堂资源链接--https://github.com/Ivan-blade/Java_Basics_2020.04.23
 + github关于fork别人仓库的操作链接--https://blog.csdn.net/u012426298/article/details/80315149
