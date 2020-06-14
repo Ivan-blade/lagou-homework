@@ -22,7 +22,8 @@
 + 同步仓库步骤
     + fork
     + clone
-    + git pull upstream master
+    + git remote add upstream https://gitee.com/Lgouedu/Java_Basics_2020.04.23.git(原仓库地址)
+    + git pull upstream master（同步原仓库地址）
         + 也可以替换为三步
             ```
                 git fetch upstream
