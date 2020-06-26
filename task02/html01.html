@@ -1,0 +1,82 @@
+<!-- 
+（1）表单中包括：用户名，密码，性别，学历（本科，专科），自我介绍；
+
+（2）输入完用户名后校验只能是"admin"，否则弹框提示错误
+
+（3）点击提交执行后执行事件，把自我介绍的内容弹框提示出来； 
+-->
+<!-- 
+    功能说明：
+        1. 用户名校验，输入不为admin将会自动重制文本框，并给出提示，直到正确
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>任务一</title>
+    <style>
+        .all{
+            display: flex;
+            flex-direction: column;
+            width: 25%;
+            margin: 0 auto;
+            margin-top: 100px;
+        } 
+        .sub01{
+            border: 1px solid grey;
+        }
+        .sub02{
+            margin-top: 10px;;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+        div div span{
+            margin-right: 205px;
+            margin-left: 3px;
+            color: grey;
+            font-size: 14px;
+        }
+    </style>
+    <script>
+        function checkName() {
+            let node = document.getElementById("username")
+            if(node.value != 'admin') {
+                node.value = null
+                alert("用户名输入错误！请重新输入！")
+            } else {
+                alert("用户名验证通过！")
+            }
+        }
+        function showInfo() {
+            let node = document.getElementById("introduction");
+            alert(node.value)
+        }
+    </script>
+</head>
+<body>
+    <div class="all">
+        <input onblur="checkName()" id="username" type="text" name="username" placeholder="username">
+        <input type="password" name="password" placeholder="password">
+        <div class="sub01">
+            <span>gender：</span>
+            <input type="radio" name="gender" checked="checked">male
+            <input type="radio" name="gender">female
+        </div>
+        <select name="education">
+            <option value="">--please chooese the education--</option>
+            <option value="初中及以下">初中及以下</option>
+            <option value="高中">高中</option>
+            <option value="本科">本科</option>
+            <option value="硕士">硕士</option>
+            <option value="博士及以上">博士及以上</option>
+        </select>
+        <textarea id="introduction" name="introduction"cols="30" rows="10"></textarea>
+        <div class="sub02">
+            <input type="submit" value="注册" onclick="showInfo()">
+            <input type="reset" value="重制">
+        </div>
+    </div>
+</body>
+</html>
