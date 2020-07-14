@@ -24,9 +24,11 @@ public class LoginFilter implements Filter {
         HttpServletRequest httpServletRequest = (HttpServletRequest)servletRequest;
         Cookie[] cookies = httpServletRequest.getCookies();
         String username = null;
-        for(Cookie temp : cookies) {
-            if("user".equals(temp.getName()) && temp.getValue() != null) {
-                username = temp.getValue();
+        if(cookies != null) {
+            for (Cookie temp : cookies) {
+                if ("user".equals(temp.getName()) && temp.getValue() != null) {
+                    username = temp.getValue();
+                }
             }
         }
 

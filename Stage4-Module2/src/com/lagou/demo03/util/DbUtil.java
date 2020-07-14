@@ -16,7 +16,7 @@ public class DbUtil {
         jdbcName = "com.mysql.jdbc.Driver";
         dbUrl = "jdbc:mysql://localhost:3306/db_web?characterEncoding=utf-8";
         dbUserName = "root";
-        dbPassword = "L1178594290";
+        dbPassword = "!Lhy1178594290";
         try {
             Class.forName(jdbcName);
         } catch (ClassNotFoundException e) {

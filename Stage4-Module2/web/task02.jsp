@@ -72,13 +72,17 @@
             clearPerson();
         }
 
+        function goToPage() {
+            window.location="/Stage4_Module2/task.jsp";
+        }
+
 
     </script>
 </head>
 <body>
     <div class="flex-row first">
 
-        <button class="btn btn-primary"><a href="task.jsp">切换视图</a></button>
+        <button class="btn btn-primary" onclick="goToPage()">切换视图</button>
         <button class="btn btn-primary" data-toggle="modal" data-target="#myModal">新增</button>
 
         <button class='btn btn-primary' onclick="edit()"><span data-toggle='modal' data-target='#myModal'>选中序号编辑</span></button>
@@ -105,18 +109,20 @@
             <tr class='info'><td>序号</td><td>工号</td><td>班级名</td><td>年级</td><td>班主任名</td><td>地址</td><td>班级口号</td></tr>
             <%
                 if(list != null) {
-                for(int i = 0; i < list.size(); i++) {
-                    String str = "<tr class='data'><td><input type='checkbox' value='"+ list.get(i).getId() +"'>"
-                            +"</td><td>"+list.get(i).getId()
-                            +"</td><td>"+list.get(i).getName()
-                            +"</td><td>"+list.get(i).getLevel()
-                            +"</td><td>"+list.get(i).getMasterName()
-                            +"</td><td>"+list.get(i).getLocation()
-                            +"</td><td>"+list.get(i).getNote()
-                            +"</tr>";
+                    for(int i = 0; i < list.size(); i++) {
+                        if(list.get(i) != null) {
+                            String str = "<tr class='data'><td><input type='checkbox' value='"+ list.get(i).getId() +"'>"
+                                    +"</td><td>"+list.get(i).getId()
+                                    +"</td><td>"+list.get(i).getName()
+                                    +"</td><td>"+list.get(i).getLevel()
+                                    +"</td><td>"+list.get(i).getMasterName()
+                                    +"</td><td>"+list.get(i).getLocation()
+                                    +"</td><td>"+list.get(i).getNote()
+                                    +"</tr>";
             %>
                 <%= str %>
             <%
+                        }
                     }
                 }
             %>
