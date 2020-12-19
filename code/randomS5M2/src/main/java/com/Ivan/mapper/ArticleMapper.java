@@ -12,4 +12,6 @@ import java.util.List;
 public interface ArticleMapper {
 
     List<Article> displayAllArticle();
+
+    List<Article> displayAllArticle2();
 }

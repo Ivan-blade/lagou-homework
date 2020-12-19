@@ -13,11 +13,10 @@
         <result property="title" column="title"></result>
         <result property="content" column="content"></result>
 
-
         <!--
             collection : 一对多使用collection标签进行关联
         -->
-        <collection property="commentList" ofType="com.Ivan.domain.Comment" fetchType="lazy">
+        <collection property="commentList" ofType="com.Ivan.domain.Comment">
             <id property="id" column="cid"></id>
             <result property="content" column="content"/>
             <result property="author" column="author"/>
@@ -25,9 +24,31 @@
         </collection>
     </resultMap>
 
+    <resultMap id="articleCommentMap" type="com.Ivan.domain.Article">
+        <id property="id" column="id"></id>
+        <result property="title" column="title"></result>
+        <result property="content" column="content"></result>
+
+
+        <collection
+                property="commentList"
+                ofType="com.Ivan.domain.Comment"
+                column="id"
+                select="com.Ivan.mapper.CommentMapper.findByAid"
+                fetchType="lazy"
+        ></collection>
+    </resultMap>
+
 
     <select id="displayAllArticle"  resultMap="articleMap">
         SELECT a.*,c.id cid,c.content, c.author,c.a_id FROM t_comment c RIGHT JOIN t_article a ON c.a_id = a.id
     </select>
+
+    <select id="displayAllArticle2"  resultMap="articleCommentMap">
+        select * from t_article
+    </select>
+
+
+
 
 </mapper>

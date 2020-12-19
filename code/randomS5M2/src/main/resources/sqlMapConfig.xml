@@ -13,7 +13,7 @@
 
     <settings>
         <!--开启全局延迟加载功能--> 
-        <setting name="lazyLoadingEnabled" value="true"/>
+        <setting name="lazyLoadingEnabled" value="false"/>
         <!--所有方法都会延迟加载-->
         <setting name="lazyLoadTriggerMethods" value="toString()"/>
 

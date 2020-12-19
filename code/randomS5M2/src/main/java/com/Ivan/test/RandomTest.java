@@ -1,7 +1,9 @@
 package com.Ivan.test;
 
 import com.Ivan.domain.Article;
+import com.Ivan.domain.Comment;
 import com.Ivan.mapper.ArticleMapper;
+import com.Ivan.mapper.CommentMapper;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
@@ -30,7 +32,7 @@ public class RandomTest {
 
         ArticleMapper mapper = sqlSession.getMapper(ArticleMapper.class);
 
-        List<Article> allArticle = mapper.displayAllArticle();
+        List<Article> allArticle = mapper.displayAllArticle2();
 
         for (Article article : allArticle) {
             System.out.println(article);
@@ -39,4 +41,23 @@ public class RandomTest {
         sqlSession.close();
     }
 
+    @Test
+    public void random2() throws IOException {
+
+        InputStream resourceAsStream = Resources.getResourceAsStream("sqlMapConfig.xml");
+
+        SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(resourceAsStream);
+
+        SqlSession sqlSession = sqlSessionFactory.openSession();
+
+        CommentMapper mapper = sqlSession.getMapper(CommentMapper.class);
+
+        List<Comment> allArticle = mapper.findByAid(1);
+
+        for (Comment comment : allArticle) {
+            System.out.println(comment);
+        }
+
+        sqlSession.close();
+    }
 }
