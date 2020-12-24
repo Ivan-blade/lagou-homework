@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.Ivan.dao.EmployeeDao">
+
+    <!--查询所有员工-->
+    <select id="findAll" resultType="com.Ivan.domain.Employee">
+        select * from employee
+    </select>
+
+    <!-- 添加员工 -->
+    <insert id="save" parameterType="com.Ivan.domain.Employee">
+        insert into employee values(null,#{emp_name},#{dept_id},#{job_name},#{join_date},#{telephone})
+    </insert>
+
+
+    <!--根据ID查询员工信息   Account findById(Integer id);-->
+    <select id="findById" parameterType="int" resultType="com.Ivan.domain.Employee">
+        select * from employee where emp_id = #{emp_id}
+    </select>
+
+
+    <!--更新员工-->
+    <update id="update" parameterType="com.Ivan.domain.Employee">
+        update employee set emp_name = #{emp_name},dept_id = #{dept_id},job_name=#{job_name},join_date=#{join_date},telephone=#{telephone} where emp_id = #{emp_id}
+    </update>
+
+
+
+</mapper>

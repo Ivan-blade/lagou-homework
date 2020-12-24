@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.Ivan.dao.DeptDao">
+
+    <!--查询所有账户-->
+    <select id="findAll" resultType="com.Ivan.domain.Department">
+        select * from tb_dept
+    </select>
+
+</mapper>
