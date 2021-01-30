@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0667fba6-2462-432e-b41f-cae3e4b54d80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../../../software/environment/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../software/environment/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../../../software/environment/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nhD4M0Qp7bjfoLPzV1Nb4HHBVU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31264368" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.goods.controller" />
+      <recent name="com.lagou.gateway" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderAppliation9101">
+    <configuration name="MapperTest.dtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lagou-service-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.goods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.goods" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.goods.MapperTest" />
+      <option name="METHOD_NAME" value="dtest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.mtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lagou-service-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.goods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.goods" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.goods.MapperTest" />
+      <option name="METHOD_NAME" value="mtest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.qtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lagou-service-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.goods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.goods" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.goods.MapperTest" />
+      <option name="METHOD_NAME" value="qtest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.utest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lagou-service-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.goods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.goods" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.goods.MapperTest" />
+      <option name="METHOD_NAME" value="utest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.config.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication9301" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-eureka-9301" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.eureka.EurekaApplication9301" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.gateway.GateWayServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayServerApplication9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-gateway-9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.gateway.GateWayServerApplication9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lagou-service-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.goods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.goods.GoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication9201" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-service-goods-9201" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.goods.GoodsApplication9201" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderAppliation" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-service-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.order.OrderAppliation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderAppliation9101" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-service-order-9101" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.order.OrderAppliation9101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GoodsApplication" />
+        <item itemvalue="JUnit.MapperTest.dtest" />
+        <item itemvalue="JUnit.MapperTest.utest" />
+        <item itemvalue="JUnit.MapperTest.qtest" />
+        <item itemvalue="JUnit.MapperTest.mtest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0667fba6-2462-432e-b41f-cae3e4b54d80" name="Default Changelist" comment="" />
+      <created>1611833236017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611833236017</updated>
+      <workItem from="1611833237272" duration="29915000" />
+      <workItem from="1611966640769" duration="3986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="23" key="#Project_Structure" timestamp="1611913077812">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="200" y="23" key="#Project_Structure/0.23.1680.963@0.23.1680.963" timestamp="1611913077812" />
+    <state x="440" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611887572560">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="440" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.963@0.23.1680.963" timestamp="1611887572560" />
+    <state x="606" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1611913850613">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state x="606" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1680.963@0.23.1680.963" timestamp="1611904694381" />
+    <state x="606" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1680.964@0.23.1680.964" timestamp="1611913850613" />
+    <state width="1628" height="236" key="GridCell.Tab.0.bottom" timestamp="1611972264206">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state width="1628" height="236" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1611971025804" />
+    <state width="1628" height="236" key="GridCell.Tab.0.bottom/0.23.1680.964@0.23.1680.964" timestamp="1611972264206" />
+    <state width="1628" height="236" key="GridCell.Tab.0.center" timestamp="1611972264205">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state width="1628" height="236" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1611971025802" />
+    <state width="1628" height="236" key="GridCell.Tab.0.center/0.23.1680.964@0.23.1680.964" timestamp="1611972264205" />
+    <state width="1628" height="236" key="GridCell.Tab.0.left" timestamp="1611972264205">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state width="1628" height="236" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1611971025802" />
+    <state width="1628" height="236" key="GridCell.Tab.0.left/0.23.1680.964@0.23.1680.964" timestamp="1611972264205" />
+    <state width="1628" height="236" key="GridCell.Tab.0.right" timestamp="1611972264206">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state width="1628" height="236" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1611971025803" />
+    <state width="1628" height="236" key="GridCell.Tab.0.right/0.23.1680.964@0.23.1680.964" timestamp="1611972264206" />
+    <state width="1628" height="236" key="GridCell.Tab.1.bottom" timestamp="1611972264208">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state width="1628" height="236" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1611971025806" />
+    <state width="1628" height="236" key="GridCell.Tab.1.bottom/0.23.1680.964@0.23.1680.964" timestamp="1611972264208" />
+    <state width="1628" height="236" key="GridCell.Tab.1.center" timestamp="1611972264207">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state width="1628" height="236" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1611971025805" />
+    <state width="1628" height="236" key="GridCell.Tab.1.center/0.23.1680.964@0.23.1680.964" timestamp="1611972264207" />
+    <state width="1628" height="236" key="GridCell.Tab.1.left" timestamp="1611972264207">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state width="1628" height="236" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1611971025804" />
+    <state width="1628" height="236" key="GridCell.Tab.1.left/0.23.1680.964@0.23.1680.964" timestamp="1611972264207" />
+    <state width="1628" height="236" key="GridCell.Tab.1.right" timestamp="1611972264207">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state width="1628" height="236" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1611971025806" />
+    <state width="1628" height="236" key="GridCell.Tab.1.right/0.23.1680.964@0.23.1680.964" timestamp="1611972264207" />
+    <state x="262" y="84" key="Maven.ArtifactSearchDialog" timestamp="1611905327265">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="262" y="84" key="Maven.ArtifactSearchDialog/0.23.1680.963@0.23.1680.963" timestamp="1611905327265" />
+    <state x="419" y="149" key="NewModule_or_Project.wizard" timestamp="1611835764628">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="419" y="149" key="NewModule_or_Project.wizard/0.23.1680.963@0.23.1680.963" timestamp="1611835764628" />
+    <state x="200" y="23" key="SettingsEditor" timestamp="1611967547511">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="200" y="23" key="SettingsEditor/0.23.1680.963@0.23.1680.963" timestamp="1611967547511" />
+    <state x="200" y="23" key="SettingsEditor/0.23.1680.964@0.23.1680.964" timestamp="1611836460059" />
+    <state x="68" y="41" key="new project wizard" timestamp="1611833984785">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="68" y="41" key="new project wizard/0.23.1680.963@0.23.1680.963" timestamp="1611833984785" />
+    <state x="421" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1611967594175">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="421" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.963@0.23.1680.963" timestamp="1611967594175" />
+  </component>
+</project>
