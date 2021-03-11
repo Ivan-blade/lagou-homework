@@ -4,12 +4,7 @@ package com.lagou.user;
 import com.lagou.entity.User;
 import org.apache.ibatis.annotations.Param;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-08 11:21
- * @Description:
- */
+
 public interface UserService {
     /**
      * @param phone    手机号

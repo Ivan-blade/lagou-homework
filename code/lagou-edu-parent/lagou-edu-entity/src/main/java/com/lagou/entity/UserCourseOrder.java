@@ -8,12 +8,7 @@ import lombok.ToString;
 import java.util.Date;
 import java.io.Serializable;
 
-/**
- * 用户课程订单表(UserCourseOrder)实体类
- *
- * @author LaoSun
- * @since 2020-09-09 16:49:21
- */
+
 @Data  //get和set都全部生成了
 @AllArgsConstructor //生成全参数的构造方法
 @NoArgsConstructor //生成空构造方法

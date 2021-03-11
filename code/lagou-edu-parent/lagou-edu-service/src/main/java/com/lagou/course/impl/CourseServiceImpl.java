@@ -8,12 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
-/**
- * @BelongsProject: lagou-edu
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-08 16:46
- * @Description:
- */
+
 @Service
 public class CourseServiceImpl implements CourseService {
 

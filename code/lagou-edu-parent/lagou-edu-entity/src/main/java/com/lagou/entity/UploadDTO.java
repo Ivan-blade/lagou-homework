@@ -7,11 +7,7 @@ import lombok.ToString;
 
 import java.io.Serializable;
 
-/**
- * @author apple
- * @date 2021/1/20 下午7:27
- * @description
- */
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

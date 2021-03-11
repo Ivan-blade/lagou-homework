@@ -5,12 +5,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-10 14:11
- * @Description:
-        */
+
 public interface CommentService {
     /**
      * 保存留言

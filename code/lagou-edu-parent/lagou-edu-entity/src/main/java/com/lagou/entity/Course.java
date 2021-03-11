@@ -9,12 +9,7 @@ import java.util.Date;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * 课程(Course)实体类
- *
- * @author LaoSun
- * @since 2020-09-08 15:19:06
- */
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

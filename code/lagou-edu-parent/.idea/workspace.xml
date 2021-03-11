@@ -2,7 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c5182db-b051-401e-b208-268fc99b55e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-dao/src/main/java/mapper/CourseCommentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-dao/src/main/java/mapper/CourseCommentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-dao/src/main/java/mapper/CourseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-dao/src/main/java/mapper/CourseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-dao/src/main/java/mapper/OrderDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-dao/src/main/java/mapper/OrderDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-dao/src/main/java/mapper/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-dao/src/main/java/mapper/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/ActivityCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/ActivityCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/CourseComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/CourseComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/CourseCommentFavoriteRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/CourseCommentFavoriteRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/CourseLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/CourseLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/CourseMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/CourseMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/CourseSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/CourseSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/UploadDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/UploadDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/UserCourseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/UserCourseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-entity/src/main/java/com/lagou/entity/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/comment/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/comment/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/comment/impl/CommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/comment/impl/CommentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/course/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/course/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/course/impl/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/course/impl/CourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/order/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/order/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/order/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/order/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/user/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/user/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/user/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-edu-service/src/main/java/com/lagou/user/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/comment/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/comment/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/comment/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/comment/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/course/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/course/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/course/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/course/controller/CourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/order/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/order/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/order/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/order/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/user/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/user/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/wx/WxLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/wx/WxLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/wx/WxPayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/com/lagou/wx/WxPayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/commons/HttpClientUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/commons/HttpClientUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/commons/PayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/commons/PayConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/entity/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/entity/Token.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/entity/WxUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lagou-edu-web/src/main/java/entity/WxUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611130772863</updated>
       <workItem from="1611130775180" duration="7816000" />
+      <workItem from="1615445672765" duration="303000" />
     </task>
     <servers />
   </component>

@@ -3,12 +3,7 @@ package com.lagou.entity;
 import java.util.Date;
 import java.io.Serializable;
 
-/**
- * 课节视频表(CourseMedia)实体类
- *
- * @author LaoSun
- * @since 2020-09-08 15:25:12
- */
+
 public class CourseMedia implements Serializable {
     private static final long serialVersionUID = -80134795424357484L;
     /**

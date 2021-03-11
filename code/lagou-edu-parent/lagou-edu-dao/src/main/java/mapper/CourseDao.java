@@ -6,12 +6,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @BelongsProject: lagou-edu
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-08 16:24
- * @Description:
- */
+
 @Service
 public interface CourseDao {
 

@@ -8,12 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
-/**
- * @BelongsProject: lagou-edu
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-09 16:00
- * @Description:
- */
+
 @Service //暴露服务
 public class OrderServiceImpl implements OrderService {
     @Autowired

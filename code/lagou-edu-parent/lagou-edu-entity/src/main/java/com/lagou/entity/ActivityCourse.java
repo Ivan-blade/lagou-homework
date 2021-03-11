@@ -8,12 +8,7 @@ import lombok.ToString;
 import java.util.Date;
 import java.io.Serializable;
 
-/**
- * 活动课程表(ActivityCourse)实体类
- *
- * @author LaoSun
- * @since 2020-09-09 12:03:18
- */
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

@@ -8,12 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-23 17:47
- * @Description: 微信支付相关控制
- */
+
 @RestController
 @RequestMapping("order")
 public class WxPayController {

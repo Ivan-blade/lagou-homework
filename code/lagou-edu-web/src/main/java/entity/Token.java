@@ -1,11 +1,6 @@
 package entity;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-22 13:53
- * @Description: 令牌实体类
- */
+
 public class Token {
     private String access_token	;//接口调用凭证
     private String expires_in;//	access_token接口调用凭证超时时间，单位（秒）

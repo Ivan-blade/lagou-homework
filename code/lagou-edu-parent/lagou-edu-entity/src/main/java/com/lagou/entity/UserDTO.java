@@ -7,12 +7,8 @@ import lombok.ToString;
 
 import java.io.Serializable;
 
-/**
- * @BelongsProject: lagou-edu
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-08 11:44
- * @Description:
- */
+
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

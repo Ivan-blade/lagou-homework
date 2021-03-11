@@ -1,11 +1,6 @@
 package entity;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-22 14:02
- * @Description: 微信的用户信息
- */
+
 public class WxUser {
     private String openid;//	普通用户的标识，对当前开发者帐号唯一
     private String nickname;//	普通用户昵称

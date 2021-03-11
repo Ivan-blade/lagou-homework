@@ -11,12 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.io.UnsupportedEncodingException;
 import java.util.List;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-10 14:12
- * @Description:
- */
+
 @RestController
 @RequestMapping("course")
 public class CommentController {

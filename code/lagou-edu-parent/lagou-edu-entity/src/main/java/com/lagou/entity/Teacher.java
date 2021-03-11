@@ -8,12 +8,7 @@ import lombok.ToString;
 import java.util.Date;
 import java.io.Serializable;
 
-/**
- * 讲师表(Teacher)实体类
- *
- * @author LaoSun
- * @since 2020-09-08 15:19:28
- */
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

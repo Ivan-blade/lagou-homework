@@ -18,12 +18,6 @@ import java.io.File;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-08 11:22
- * @Description:
- */
 
 @RestController
 @RequestMapping("user")

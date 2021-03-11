@@ -12,12 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.UUID;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-09 16:11
- * @Description:
- */
+
 @RestController
 @RequestMapping("order")
 public class OrderController {

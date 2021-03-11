@@ -6,12 +6,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * 用户表(User)表服务接口
- *
- * @author LaoSun
- * @since 2020-09-08 10:55:48
- */
+
 public interface UserService {
 
     /**

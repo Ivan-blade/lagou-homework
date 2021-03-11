@@ -5,12 +5,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-09 16:10
- * @Description:
- */
+
 public interface OrderService {
     /**
      * 生成订单

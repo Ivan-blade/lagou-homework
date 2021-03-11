@@ -21,12 +21,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-22 11:15
- * @Description:
- */
+
 @RestController
 @RequestMapping("user")
 public class WxLoginController {

@@ -8,12 +8,7 @@ import mapper.UserDao;
 import org.springframework.beans.factory.annotation.Autowired;
 
 
-/**
- * 用户表(User)表服务实现类
- *
- * @author LaoSun
- * @since 2020-09-08 10:55:49
- */
+
 @Service //暴露服务：让消费者能够找到我
 public class UserServiceImpl implements UserService {
 

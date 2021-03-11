@@ -5,12 +5,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * @BelongsProject: lagou-edu
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-08 16:45
- * @Description:
- */
+
 public interface CourseService {
     /**
      * 查询全部课程信息

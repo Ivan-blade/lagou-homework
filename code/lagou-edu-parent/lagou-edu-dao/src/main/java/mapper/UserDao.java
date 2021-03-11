@@ -4,12 +4,7 @@ import com.lagou.entity.User;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Service;
 
-/**
- * 用户表(User)表数据库访问层
- *
- * @author makejava
- * @since 2020-09-07 17:26:30
- */
+
 @Service
 public interface UserDao {
 

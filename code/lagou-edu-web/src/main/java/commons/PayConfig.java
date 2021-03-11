@@ -1,11 +1,6 @@
 package commons;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-23 17:49
- * @Description: 微信支付商户的配置类（运行不了的商户信息）
- */
+
 public class PayConfig {
     //企业公众号ID
     public static String appid="wx8397f8696b538317";

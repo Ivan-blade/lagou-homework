@@ -10,12 +10,7 @@ import org.apache.http.util.EntityUtils;
 import java.net.URI;
 import java.util.Map;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-22 11:30
- * @Description: httpclient的封装工具类
- */
+
 public class HttpClientUtil {
 
     public static String doGet(String url) {

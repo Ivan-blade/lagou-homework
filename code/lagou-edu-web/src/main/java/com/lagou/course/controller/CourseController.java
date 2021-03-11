@@ -12,12 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * @BelongsProject: lagou-edu-web
- * @Author: GuoAn.Sun
- * @CreateTime: 2020-09-08 11:22
- * @Description:
- */
 
 @RestController
 @RequestMapping("course")
